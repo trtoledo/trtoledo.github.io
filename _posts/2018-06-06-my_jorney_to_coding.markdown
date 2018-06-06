@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "My jorney to coding"
-date:       2018-06-06 15:06:16 +0000
+title:      "My Journey to Coding"
+date:       2018-06-06 11:06:17 -0400
 permalink:  my_jorney_to_coding
 ---
 
